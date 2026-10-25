@@ -1,0 +1,6 @@
+{
+  "name": "Tribute to Eng. Mohamed Anwar",
+  "description": "An elegant, heartfelt appreciation project honoring Eng. Mohamed Anwar with glowing particle animations, voice tribute player, and personalized dedication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
